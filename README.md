@@ -39,7 +39,7 @@ git clone https://<username>:<token>@huggingface.co/spaces/<username>/<repo-name
 Example:
 
 ```bash
-git clone https://abdullahniaz:hf________________________________@huggingface.co/spaces/abdullahniaz/my-space
+git clone https://abdullahniaz:yourtokenhere@huggingface.co/spaces/abdullahniaz/my-space
 ```
 
 This downloads the repo to your local machine.
